@@ -3,7 +3,7 @@
 
 - 🔭 目前正在開發 [WaitNetwork](https://discord.gg/RNJQFYbjVp)
 
-- 🌱 正在學習 **Java, JavaScript**
+- 🌱 正在學習 **Java**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
