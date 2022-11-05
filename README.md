@@ -1,5 +1,6 @@
 <h1 align="center">你好✔️ 我是 YuDong</h1>
-<h3 align="center">我是Wait Network的Developer</h3>
+## My BLOG : https://yudong-0222.github.io
+<h3 align="center">我是Wait Network 的 Developer</h3>
 
 - 🔭 目前正在開發 [WaitNetwork](https://discord.gg/RNJQFYbjVp)
 
