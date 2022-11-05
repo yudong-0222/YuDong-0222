@@ -11,7 +11,7 @@
 
 - 🌭 關於我:  
 + [YouTube](https://www.youtube.com)
-+ **常常編寫一些好玩的插件 通常在1.8活躍**
++ **喜歡編寫一些有趣的Minecraft插件 通常在1.8活躍**
 
 <h3 align="left">與我聯絡:</h3>
 <p align="left">
