@@ -1,10 +1,11 @@
 <h1 align="center">你好✔️ 我是 YuDong</h1>
-<h2 align="center"> My BLOG : https://yudong-0222.github.io </h2>
 <h3 align="center">我是Wait Network 的 Developer</h3>
 
-- 🔭 目前正在開發 [WaitNetwork](https://discord.gg/RNJQFYbjVp)
+- 🔭 目前正任職於 [WaitNetwork](https://discord.gg/RNJQFYbjVp) 擔任開發人員
 
-- 🌱 正在學習 **Java**
+- 🌱 正在學習 **Java**, **C++ 競程** 
+
+-  [我的Blog](https://yudong-0222.github.io)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
@@ -12,6 +13,7 @@
 - 🌭 關於我:  
 + [YouTube](https://www.youtube.com)
 + **喜歡編寫一些有趣的Minecraft插件 通常在1.8活躍**
++ **喜歡解題絞盡腦汁的快感與AC之後的爽感！**
 
 <h3 align="left">與我聯絡:</h3>
 <p align="left">
