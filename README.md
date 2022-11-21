@@ -1,26 +1,26 @@
 <h1 align="center">你好✔️ 我是 YuDong</h1>
-<h3 align="center">我是Wait Network 的 Developer</h3>
 
-- 🔭 目前正任職於 [WaitNetwork](https://discord.gg/RNJQFYbjVp) 擔任開發人員
+- 🔭 目前正任職於 [Wait Network](https://discord.gg/RNJQFYbjVp) 擔任開發人員
 
 - 🌱 正在學習 **Java**, **C++ 競程** 
 
 -  [我的Blog](https://yudong-0222.github.io)
 
+- 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side projects)，或者其他練習紀錄。
+
+## 一些資訊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
+
+## 使用的語言 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
 
-- 🌭 關於我:  
+## 🌭 關於我:  
 + [YouTube](https://www.youtube.com)
 + **喜歡編寫一些有趣的Minecraft插件 通常在1.8活躍**
 + **喜歡解題絞盡腦汁的快感與AC之後的爽感！**
 
-<h3 align="left">與我聯絡:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/RNJQFYbjVp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RNJQFYbjVp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">常用的語言:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-
+## 🍟 未來志向:
+- 繼續學習並開發**前端網頁**
+- 學習更多**演算法競賽**的知識
+- 繼續寫我最喜歡的**Minecraft插件**
+- 保持*熱忱*！
