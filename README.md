@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
 
 ## 使用的語言 
-[![Top Langs]](https://github.com/YuDong-0222)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
 
 ## 🌭 關於我:  
 + [YouTube](https://www.youtube.com)
