@@ -1,5 +1,11 @@
 <h1 align="center">你好✔️ 我是 YuDong</h1>
 
+我是一名臺灣的高中學生，我正就讀於*國立臺南大學附屬高級中學*
+我喜歡寫一些Minecraft插件, 練習競程。
+希望與您一同在夢想這條路上比肩同行！
+
+# 🍕我的經歷
+
 - 🔭 目前正任職於 [Wait Network](https://discord.gg/RNJQFYbjVp) 擔任開發人員
 
 - 🌱 正在學習 **Java**, **C++ 競程** 
@@ -8,7 +14,7 @@
 
 - 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side projects)，或者其他練習紀錄。
 
-## 一些資訊
+## 🧀一些資訊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
 
 ## 使用的語言 
