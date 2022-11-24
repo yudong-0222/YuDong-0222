@@ -23,10 +23,10 @@
 ## 🌭 關於我:  
 + [YouTube](https://www.youtube.com)
 + **喜歡編寫一些有趣的Minecraft插件 通常在1.8活躍**
-> - [WaitCore](https://github.com/yudong-0222/waitcore)
-> - [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)
-> - [SnD](https://github.com/yudong-0222/SnD)    
-> - [WaitParticle](https://github.com/yudong-0222/waitparticle)    
+> - [WaitCore](https://github.com/yudong-0222/waitcore) [Wait Network 核心］  
+> - [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［Wait Network 擊殺特效］  
+> - [SnD](https://github.com/yudong-0222/SnD) [Wait Network 小遊戲-經典爆破］    
+> - [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 特質軌跡特效]    
 > - ...還有更多+    
 + **喜歡解題絞盡腦汁的快感與AC之後的爽感！**
 
