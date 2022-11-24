@@ -26,7 +26,7 @@
 > - [WaitCore](https://github.com/yudong-0222/waitcore)
 > - [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)
 > - [SnD](https://github.com/yudong-0222/SnD)    
-> ...還有更多+
+> - ...還有更多+
 + **喜歡解題絞盡腦汁的快感與AC之後的爽感！**
 
 ## 🍟 未來志向:
