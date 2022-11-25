@@ -6,13 +6,13 @@
 
 # 🍕我的經歷
 
-- 🔭 目前正任職於 [Wait Network](https://discord.gg/RNJQFYbjVp) 擔任開發人員
+* 🔭 目前正任職於 [Wait Network](https://discord.gg/RNJQFYbjVp) 擔任開發人員
 
-- 🌱 正在學習 **Java**, **C++ 競程** 
+* 🌱 正在學習 **Java**, **C++ 競程** 
 
--  [我的Blog](https://yudong-0222.github.io)  
+*  [我的Blog](https://yudong-0222.github.io)  
 
-- 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side Projects)，或者其他練習紀錄。  
+* 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side Projects)，或者其他練習紀錄。  
 
 ## 🧀一些資訊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&theme=dracula)](https://github.com/YuDong-0222)  
