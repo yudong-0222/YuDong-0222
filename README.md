@@ -26,7 +26,7 @@
 > - [WaitCore](https://github.com/yudong-0222/waitcore) [Wait Network 核心］  
 > - [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［Wait Network 擊殺特效］  
 > - [SnD](https://github.com/yudong-0222/SnD) [Wait Network 小遊戲-經典爆破］    
-> - [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 特質軌跡特效]    
+> - [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 投擲物軌跡特效]    
 > - ...還有更多+    
 + **喜歡解題絞盡腦汁的快感與AC之後的爽感！**
 
