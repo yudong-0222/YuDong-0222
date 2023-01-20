@@ -24,11 +24,12 @@
 > - ...還有更多++ 
 
 ## 🧀一些資訊
-[![YuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🍜使用的語言 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222%hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 + **喜歡解題絞盡腦汁的快感與ACㄉ爽感！**
