@@ -24,7 +24,7 @@
 > - ...還有更多++ 
 
 ## 🧀一些資訊
-[![YuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![YuDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ## 🍜使用的語言 
