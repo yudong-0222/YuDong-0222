@@ -26,9 +26,8 @@
 ## 🧀一些資訊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuDong-0222&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## 🍜使用的語言 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
