@@ -28,7 +28,7 @@
  
 
 ## 🍜使用的語言 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222%hide=css&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222%hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 + **喜歡解題絞盡腦汁的快感與ACㄉ爽感！**
