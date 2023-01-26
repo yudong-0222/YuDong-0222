@@ -6,9 +6,9 @@
 
 # 🍕我的經歷
 
-* 🔭 目前正任職於 [Wait Network](https://wait2.weebly.com) 擔任開發人員
+* 🔭 目前正任職於 [Wait Network]((https://discord.gg/RNJQFYbjVp)) 擔任擁有者暨開發人員
 
-* 🌱 正在學習 **Java**, **C++ 競程** 
+* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next JavaScript** 
 
 *  [我的Blog](https://yudong-0222.github.io)  
 
