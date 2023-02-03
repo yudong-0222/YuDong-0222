@@ -19,11 +19,11 @@
 ## 🌭 關於我:  
 + [YouTube](https://www.youtube.com)
 + 喜歡編寫一些有趣的**Minecraft插件** 插件多數為 **Private 私人**    
-> - [WaitCore](https://github.com/yudong-0222/waitcore) ［Wait Network 核心］  
-> - [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［Wait Network 擊殺特效］  
-> - [SnD](https://github.com/yudong-0222/SnD) ［Wait Network 小遊戲-經典爆破］    
-> - [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 投擲物軌跡特效］    
-> - ...還有更多++ 
+ - [WaitCore](https://github.com/yudong-0222/waitcore) ［Wait Network 核心］  
+ - [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［Wait Network 擊殺特效］  
+ - [SnD](https://github.com/yudong-0222/SnD) ［Wait Network 小遊戲-經典爆破］    
+ - [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 投擲物軌跡特效］    
+ - ...還有更多++ 
 
 + 您也可以在 [我的Repositories頁面](https://github.com/YuDong-0222?tab=repositories) 找到我所有開源或者存放的資料!
 + 若有任何問題，歡迎使用 **Issues** 與我聯繫!
