@@ -6,13 +6,13 @@
 
 # 🍕我的經歷
 
-* 🔭 目前正任職於 [Wait Network]((https://discord.gg/RNJQFYbjVp)) 擔任擁有者暨開發人員
+* 🔭 目前正任職於 [Wait Network](https://discord.gg/RNJQFYbjVp) 擔任**擁有者**暨**開發人員**
 
 * 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next JavaScript** 
 
-*  [我的Blog](https://yudong-0222.github.io)  
+* 🎃 [我的Blog](https://yudong-0222.github.io)  
 
-*  [我的Portfolio](https://profilev1.vercel.app/)  
+* 🔶 [我的Portfolio](https://profilev1.vercel.app/)  
 
 * 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side Projects)，或者其他練習紀錄。  
 
@@ -34,9 +34,6 @@
 
 ## 🍜使用的語言 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 ## 🍟 未來志向:
