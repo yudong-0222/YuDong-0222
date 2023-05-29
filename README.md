@@ -12,8 +12,6 @@
 
 * 🎃 [我的Blog](https://yudong-0222.github.io)  
 
-* 🔶 [我的Portfolio](https://profilev1.vercel.app/)  
-
 * 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side Projects)，或者其他練習紀錄。  
 
 ## 🌭 關於我:  
