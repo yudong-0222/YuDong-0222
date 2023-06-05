@@ -6,9 +6,9 @@
 
 # 🍕我的經歷
 
-* 🔭 目前正任職於 [Wait Network](https://waitnetwork.vercel.app) 擔任**擁有者**暨**開發人員**
+* 🔭 目前任職於 [Wait Network](https://waitnetwork.vercel.app) 擔任**擁有者**暨**開發人員**
 
-* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next JavaScript** 
+* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next Js** 
 
 * 🎃 [我的Blog](https://yudong-0222.github.io)  
 
