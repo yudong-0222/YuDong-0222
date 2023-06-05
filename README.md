@@ -15,7 +15,6 @@
 * 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side Projects)，或者其他練習紀錄。  
 
 ## 🌭 關於我:  
-+ [YouTube](https://www.youtube.com)
 + 喜歡編寫一些有趣的**Minecraft插件** 插件多數為 **Private 私人**    
   * [WaitCore](https://github.com/yudong-0222/waitcore) ［Wait Network 核心］  
   * [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［Wait Network 擊殺特效］  
