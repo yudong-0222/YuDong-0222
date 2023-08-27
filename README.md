@@ -19,7 +19,8 @@
   * [WaitCore](https://github.com/yudong-0222/waitcore) ［Wait Network 核心］  
   * [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［Wait Network 擊殺特效］  
   * [SnD](https://github.com/yudong-0222/SnD) ［Wait Network 小遊戲-經典爆破］    
-  * [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 投擲物軌跡特效］    
+  * [WaitParticle](https://github.com/yudong-0222/waitparticle) ［Wait Network 投擲物軌跡特效］
+  * [Ranked Skywars](https://github.com/NINJADOGE-01/RankedSkywars) ［Ranked Skywars 復刻］    
   * ...還有更多++ 
 
 + 您也可以在 [我的Repositories頁面](https://github.com/YuDong-0222?tab=repositories) 找到我所有開源或者存放的資料!
