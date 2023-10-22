@@ -1,18 +1,24 @@
 <h1 align="center">你好✔️ 我是 YuDong</h1>
 
-我是一名臺灣的高中學生，我正就讀於*國立臺南大學附屬高級中學*  
+我是一名臺灣的高中學生，我正就讀於 ***國立臺南大學附屬高級中學***  
 我喜歡寫一些Minecraft插件, 練習競程, 學習、開發一些前端網站。  
 希望與您一同在夢想這條路上比肩同行！  
 
+### 這裡是我的**Github**，我會放一些小專案以及存放一些作品和練習紀錄。 
+
 # 🍕我的經歷
 
-* 🔭 目前任職於 [Wait Network](https://waitnetwork.vercel.app) 擔任**擁有者**暨**開發人員**
+## 社團與社群
+* **南大附中資訊研究社 NFIRC** 1st 創社副社長
 
-* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next Js** 
+## Minecraft 部分：
+* 🔭  [Wait Network](https://waitmc.top) 擔任**擁有者**暨**開發人員**
+* 🔭  [NINJADOGE Network](https://discord.gg/93Sdcrhq2X) 
 
-* 🎃 [我的Blog](https://yudong-0222.github.io)  
+* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next.js** 
 
-* 這裡是我的**Github**，我會放一些累積的專案以及我存放的一些作品(Side Projects)，或者其他練習紀錄。  
+* 🎃 [我的Blog](https://yudong-0222.github.io) 多數放一些解題紀錄、心得。記錄我的成長與所學。  
+ 
 
 ## 🌭 關於我:  
 + 喜歡編寫一些有趣的**Minecraft插件** 插件多數為 **Private 私人**    
@@ -24,7 +30,7 @@
   * ...還有更多++ 
 + 前端部分：
   * [NFIRC 南附資研社社網](https://nfirc.vercel.app/)
-  * [WAIT NETWORK 官方網頁](https://waitmc.top)
+  * [WAIT Network 官方網頁](https://waitmc.top)
   * [練習Framer Motion的園遊會小網頁](https://github.com/YuDong-0222/2023tntcshschoolmarket)
   * ...未來希望有機會製作更多 🍕
 
