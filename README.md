@@ -18,7 +18,7 @@
 
 ## Minecraft 部分：
 * 🔭  [Wait Network](https://waitmc.top) 擔任**擁有者**暨**開發人員**
-* 🔭  [NINJADOGE Network](https://discord.gg/93Sdcrhq2X) 
+* 🔭  [NINJADOGE Network](https://discord.gg/93Sdcrhq2X) 擔任 **開發人員**
  
 
 ## 🌭 關於我:  
