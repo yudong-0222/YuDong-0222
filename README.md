@@ -6,6 +6,11 @@
 
 ### 這裡是我的**Github**，我會放一些小專案以及存放一些作品和練習紀錄。 
 
+* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next.js** 
+
+* 🎃 [我的Blog](https://yudong-0222.github.io) 多數放一些解題紀錄、心得。記錄我的成長與所學。
+
+
 # 🍕我的經歷
 
 ## 社團與社群
@@ -14,10 +19,6 @@
 ## Minecraft 部分：
 * 🔭  [Wait Network](https://waitmc.top) 擔任**擁有者**暨**開發人員**
 * 🔭  [NINJADOGE Network](https://discord.gg/93Sdcrhq2X) 
-
-* 🌱 正在學習 **Java**, **C++ 競程**, **前端相關技術: React, Next.js** 
-
-* 🎃 [我的Blog](https://yudong-0222.github.io) 多數放一些解題紀錄、心得。記錄我的成長與所學。  
  
 
 ## 🌭 關於我:  
