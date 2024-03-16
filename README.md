@@ -11,7 +11,7 @@
 
 ## 🌭 關於我:  
 + 喜歡編寫一些有趣的 **Minecraft 插件**，插件多數為 **Private 私人**。    
-  * [WAIT-Core](https://github.com/yudong-0222/waitcore) ［WAIT Network 核心］  
+  * [WAIT-Core](https://github.com/yudong-0222/waitcore) ［WAIT Network common cmd essential］  
   * [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［WAIT Network 擊殺特效］  
   * [SnD](https://github.com/yudong-0222/SnD) ［WAIT Network 小遊戲-經典爆破］    
   * [WAIT-Particle](https://github.com/yudong-0222/waitparticle) ［WAIT Network 投擲物軌跡特效］
