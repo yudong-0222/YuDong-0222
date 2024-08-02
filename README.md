@@ -1,7 +1,7 @@
 <h1 align="center">你好⭐我是 YuDong</h1>
 
 一名臺灣的高中學生。
-喜歡寫一些 Minecraft Spigot 插件、練習演算法、學習開發一些前端網站！
+喜歡寫一些 Minecraft Spigot 插件、參與演算法競賽、學習開發一些前端網站！
 
 * 🌱 正在學習 **Java**, **C++**, **DSA**, **React.js、Next.js** 
 
