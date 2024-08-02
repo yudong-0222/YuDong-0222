@@ -11,7 +11,7 @@
   * [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［WAIT Network 擊殺特效］  
   * [SnD](https://github.com/yudong-0222/SnD) ［WAIT Network 小遊戲-經典爆破］    
   * [WAIT-Particle](https://github.com/yudong-0222/waitparticle) ［WAIT Network 投擲物軌跡特效］
-  * [Ranked Skywars](https://github.com/NINJADOGE-01/RankedSkywars) ［[Hypixel 伺服器的 Ranked Skywars 復刻](https://youtu.be/S7ADqNzgzj0?si=GMR5DMygS9T1J1MR)］
+  * [Ranked Skywars](https://github.com/NINJADOGE-01/RankedSkywars) ［Hypixel 伺服器的 Ranked Skywars 復刻 - 與 [@Njdgeee](https://github.com/Njdgee) 合作開發］[Video](https://youtu.be/S7ADqNzgzj0?si=GMR5DMygS9T1J1MR)
   * ...還有更多✨
 + 前端部分：
   * [NFIRC 南附資研社社網](https://nfirc.vercel.app/)
