@@ -6,7 +6,7 @@
 * 🌱 正在學習 **Java**, **C++**, **DSA**, **React.js、Next.js** 
 
 ## 🌭 關於我:  
-+ 喜歡編寫一些有趣的 **Minecraft 插件**。多數為 **Private**。     
++ 喜歡編寫一些有趣的 **Minecraft 插件**。多數為 **私人**儲存庫。     
   * [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait)［WAIT Network 擊殺特效］  
   * [SnD](https://github.com/yudong-0222/SnD) ［WAIT Network 小遊戲-經典爆破］    
   * [WAIT-Particle](https://github.com/yudong-0222/waitparticle) ［WAIT Network 投擲物軌跡特效］
@@ -30,4 +30,5 @@
 - 繼續學習並開發更多**前端網頁**
 - 學習更多 **DSA** 的知識
 - 繼續寫**Spigot 插件**
+- 接觸 Cyber Security
 - 保持*熱忱*！
