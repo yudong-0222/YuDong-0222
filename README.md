@@ -15,7 +15,6 @@
 + 前端部分：
   * [NFIRC 南附資研社社網](https://nfirc.vercel.app/)
   * [WAIT Network 官方網頁](https://waitnetwork.vercel.app)
-  * [練習 Framer Motion 的園遊會小網頁](https://github.com/YuDong-0222/2023tntcshschoolmarket)
   * ...未來希望有機會製作更多 🍕
 
 ## 🧀一些資訊
