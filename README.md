@@ -2,7 +2,6 @@
 
 🎓 來自臺灣的高中生，喜歡開發 Minecraft Spigot 插件、參與演算法競賽、前端開發！
 
----
 
 ## 💻 Tech Stack
 
@@ -16,7 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🚀 關於我
 
@@ -36,7 +34,6 @@
 - 💻 [NFIRC 南附資研社 社網](https://nfirc.vercel.app/)
 - ...
 
----
 
 ## 📊 統計資料
 
