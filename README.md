@@ -25,7 +25,7 @@
 喜歡開發一些 **Minecraft 插件** ，部分插件開源：
 - 🥇 [Ranked Skywars](https://github.com/NINJADOGE-01/RankedSkywars) - Hypixel 的 **Ranked Skywars** 復刻版（與 [@Njdgee](https://github.com/Njdgee) 合作開發）  
   - ✨ 我將插件製作過程記錄成影片👉[製作過程影片](https://youtu.be/S7ADqNzgzj0?si=GMR5DMygS9T1J1MR)
-- 💣 [Searcch And Destroy](https://github.com/yudong-0222/SnD) - 將 FPS 槍戰搬進 Minecraft。經典爆破、單挑對決，應有盡有！
+- 💣 [Search And Destroy](https://github.com/yudong-0222/SnD) - 將 FPS 槍戰搬進 Minecraft。經典爆破、單挑對決，應有盡有！
 - 🎇 [KillEffect-Wait](https://github.com/yudong-0222/killeffect-wait) - 超過 15 種以上可自定義擊殺特效。
 - 🌈 [WAIT-Particle](https://github.com/yudong-0222/waitparticle) - 超過 15 種以上可自定義投擲物軌跡特效。 
 - ...還有更多🌟
