@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuDong-0222&theme=dracula&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧩 貢獻圖
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yudong-0222&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yudong-0222&theme=react)](#)
 
 ### 💬 聯繫我
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yudong.jar) <br>
